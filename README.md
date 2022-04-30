@@ -1,4 +1,11 @@
 # games
+## Technologies:
+```
+HTML
+Bootstrap 
+CSS
+JavaScript
+Vue.js
 
 ## Project setup
 ```
